@@ -11,3 +11,12 @@ To-Do:
  - create an easier to install version.
  - add a way to change settings for commands and icons.
 
+Screenshots:
+
+The GUI:
+
+![GUI](https://github.com/C-Dubb/i3-lock-applet/blob/master/screenshots/gui.png)
+
+i3-lock with a "transparent" background:
+
+![GUI](https://github.com/C-Dubb/i3-lock-applet/blob/master/screenshots/screen.png)
